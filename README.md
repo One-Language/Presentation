@@ -1,6 +1,6 @@
-# Presentation
+# ET Programming Language Presentation
 
-The repository the files of the presentation about this programming language.
+The repository the files of the presentation about (this) ET programming language.
 
 <!--
 # 2019
