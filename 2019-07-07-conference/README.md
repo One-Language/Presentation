@@ -4,4 +4,4 @@
 
 ![Slide1](slide1.png)
 
-![Slide2](slide1.png)
+![Slide2](slide2.png)
