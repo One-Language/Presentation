@@ -14,6 +14,7 @@ Held on 2019/07/07
 - Dr. S. Morteza Babamir
 - Dr. Ayyub Bagheri
 - Dr. S. Mehdi Vahidipour
+- ...
 
 ![ET Programming Language Conference - Slide1](slide1.png)
 
