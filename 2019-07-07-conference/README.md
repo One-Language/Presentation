@@ -16,6 +16,10 @@ Held on 2019/07/07
 - Dr. S. Mehdi Vahidipour
 - ...
 
+### Share
+
+https://www.slideshare.net/MaxBase1/et-programming-language-154424714
+
 ![ET Programming Language Conference - Slide1](slide1.png)
 
 ![ET Programming Language Conference - Slide2 - Max Base](slide2.png)
