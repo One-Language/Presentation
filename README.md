@@ -1,6 +1,6 @@
 # One Programming Language Presentation
 
-The repository the files of the presentation about (this) [One programming language](https://www.onelang.org/).
+The repository with the files of the presentation about (this) [One programming language](https://www.onelang.org/).
 
 <!--
 # 2019
